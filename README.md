@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rKochi
 - 👀 I’m interested in gaming/streaming/discord bots
-- 🌱 I’m currently learning python, specifically basics, exception handling, and discord bots
+- 🌱 I’m currently learning python and git usage, specifically basics, exception handling, and discord bots
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
